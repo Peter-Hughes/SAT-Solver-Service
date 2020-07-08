@@ -1,0 +1,13 @@
+.gradle/
+.idea/
+*.iml
+build/
+.DS_Store
+out
+src/main/resources/files/input.txt
+src/main/resources/files/output.txt
+src/main/resources/files/error.txt
+src/main/resources/files/text.txt
+
+src/test/resources/files/output.txt
+src/test/resources/files/error.txt
